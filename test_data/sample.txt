@@ -1,0 +1,4 @@
+101, Afaz, 20, CSE
+102, Rahul, 21, IT
+103, Sara, 19, ECE
+104, Aman, 22, ME
