@@ -1,0 +1,16 @@
+Student Information System Documentation
+
+1. Run the program
+2. Choose option from menu
+3. Add student details
+4. View/Search/Update students
+5. Exit program
+
+Features:
+- Add Student
+- View Students
+- Search Student
+- Update Student
+
+Technology:
+- Java
